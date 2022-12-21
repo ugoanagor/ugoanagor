@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ugoanagor
 - 👀 I’m interested in Enterprise Architecture
-- 🌱 I’m currently learning Azure Cloud Data Engineering and Microsoft Azure Solutions Architecture
+- 🌱 I’m currently learning Microsoft Azure Cloud Data Engineering and Solutions Architecture
 - 💞️ I’m looking to collaborate on projects that are aligned with Cloud Computing and Enterprise Architecture
 - 📫 You can reach me on ugoanagor@yahoo.com
 
